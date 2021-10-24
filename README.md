@@ -7,4 +7,4 @@ Rule make bonus will add some other functions to work with lists.
 
 I tested them with Testers by ska42 :
 <hr>
-<img margin=auto src="https://ibb.co/56DJTN5"/>
+<img margin=auto src="./Screen Shot 2021-10-24 at 4.27.23 PM.png"/>
