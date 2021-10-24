@@ -5,6 +5,5 @@ I made my own library to use in future projects. It contains some standart stdli
 Rule make will compile all the standart functions and additonal ones. 
 Rule make bonus will add some other functions to work with lists.
 
-I tested them with Testers by ska42 
-
-[libft-war-machine results](https://ibb.co/56DJTN5)
+I tested them with Testers by ska42 :
+<img margin=auto src="https://ibb.co/56DJTN5">
