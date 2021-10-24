@@ -6,4 +6,5 @@ Rule make will compile all the standart functions and additonal ones.
 Rule make bonus will add some other functions to work with lists.
 
 I tested them with Testers by ska42 :
-<img margin=auto src="https://ibb.co/56DJTN5">
+<hr>
+<img margin=auto src="https://ibb.co/56DJTN5"/>
