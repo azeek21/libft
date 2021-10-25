@@ -8,3 +8,5 @@ Rule make bonus will add some other functions to work with lists.
 I tested them with Testers by ska42 :
 <hr>
 <img margin=auto style="height: 600px;with: auto;" src="./Screen Shot 2021-10-24 at 4.27.23 PM.png"/>
+<h2>Results from moulinette</h2>
+<img margin=aouto style"height: 500px;with auto;" src="./Screen Shot 2021-10-25 at 6.59.36 PM.png"/>
